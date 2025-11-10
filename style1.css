@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background: white;
+}
+
+h1, h2, h3 {
+    color: navy;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
