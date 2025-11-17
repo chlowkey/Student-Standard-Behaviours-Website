@@ -1,16 +1,30 @@
 body {
-    font-family: Arial;
-    background: white;
+  font-family: Arial;
+  background-color: #f2f2f2;
 }
 
-h1, h2, h3 {
-    color: navy;
+.container {
+  width: 80%;
+  margin: auto;
 }
 
-p {
-    margin: 10px 0;
+.header, .footer {
+  text-align: center;
+  background: lightblue;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
-ul, ol {
-    margin-left: 20px;
+.content-box {
+  background: white;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}
+
+marquee {
+  background: yellow;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: block;
 }
